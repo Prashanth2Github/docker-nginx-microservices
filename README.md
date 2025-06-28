@@ -99,7 +99,7 @@ Once services are up, visit these URLs:
 
 ## 👤 Author
 
-*Name:* Prashanth Bonkuru 
+Prashanth Bonkuru 
 ---
 
 ## 🛠️ Tools Used
